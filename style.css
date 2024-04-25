@@ -1,0 +1,30 @@
+body
+{
+    text-align: center;
+    font-family: cursive !important;
+    background-color: darkcyan !important;
+}
+.container{
+  background-color: mediumaquamarine;  
+}
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: rgb(54, 199, 25);
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
